@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'merrieweather',serif;
+}
+h1 {
+  font-size: 5.625rem;
+  margin-top: 0;
+  font-family: 'sacramento',cursive;
+  color: #66BFBF;
+}
+h2 {
+  font-family: 'monsterrat',sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem
+  font-weight: normal;
+}
+h3 {
+  font-family: 'monsterrat',sans-serif;
+  color: #11999E;
+}
+
+.about-me {
+  width: 30%;
+  margin: auto;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+  background-color: gold;
+  margin: 100px 0;
+
+}
+.bottom-container {
+  background-color: #E4F9F5;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+}
